@@ -1,0 +1,6479 @@
+{
+  "items": [
+    {
+      "type": "ITEM",
+      "id": "PI3BMKHXY4ZLEIS3S75O7YPW",
+      "updated_at": "2020-11-07T18:08:10.522Z",
+      "version": 1604772490522,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "'Rooms Burger ($9)",
+        "label_color": "4ab200",
+        "visibility": "PRIVATE",
+        "category_id": "VSNBI7GNMVZIHMWASUNOBTZU",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "S4QZVYR52ZJZUUPLCSYZNZNZ",
+            "updated_at": "2020-11-04T19:38:07.656Z",
+            "version": 1604518687656,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "PI3BMKHXY4ZLEIS3S75O7YPW",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 900,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": false,
+        "ecom_visibility": "UNINDEXED",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "Q625WMVQ7KJD2K7NFCBN7JGX",
+      "updated_at": "2020-11-07T18:08:10.522Z",
+      "version": 1604772490522,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "'Rooms Burger (meal)",
+        "label_color": "4ab200",
+        "visibility": "PRIVATE",
+        "category_id": "VSNBI7GNMVZIHMWASUNOBTZU",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "ILRC4QELWCU7D54BYW5YJBHG",
+            "updated_at": "2020-11-04T19:38:07.656Z",
+            "version": 1604518687656,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "Q625WMVQ7KJD2K7NFCBN7JGX",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1300,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": false,
+        "ecom_visibility": "UNINDEXED",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "STC5WSQNGBAMQJIW7SIUUOY7",
+      "updated_at": "2020-09-22T01:54:00.55Z",
+      "version": 1600739640550,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "+$1 (per pound)",
+        "description": "",
+        "label_color": "0b8000",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "ZBQG4OMBDI5C6G7TA4655GL5",
+            "updated_at": "2020-07-30T21:06:35.008Z",
+            "version": 1596143195008,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "STC5WSQNGBAMQJIW7SIUUOY7",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 100,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": true,
+        "ecom_visibility": "VISIBLE",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "SIORZ5O54NN3HUTBHUWJFQ6I",
+      "updated_at": "2020-09-22T01:57:14.637Z",
+      "version": 1600739834637,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "+$2 (per pound)",
+        "description": "",
+        "label_color": "0b8000",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "QHNTZEWQVDWNBVARUNYCLHI5",
+            "updated_at": "2020-07-30T21:06:35.008Z",
+            "version": 1596143195008,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "SIORZ5O54NN3HUTBHUWJFQ6I",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 200,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": true,
+        "ecom_visibility": "VISIBLE",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "SY2HTXDLUPM6VIBXWGOM6XLC",
+      "updated_at": "2020-09-22T02:09:46.413Z",
+      "version": 1600740586413,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "+$3 (per pound)",
+        "description": "",
+        "label_color": "0b8000",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "K5VM4ZEN5UMH4F275XEGFBDF",
+            "updated_at": "2020-07-30T21:06:35.008Z",
+            "version": 1596143195008,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "SY2HTXDLUPM6VIBXWGOM6XLC",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 300,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": true,
+        "ecom_visibility": "VISIBLE",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "SILEZ2WGRAW5UAJUQODD3724",
+      "updated_at": "2020-11-07T18:08:59.626Z",
+      "version": 1604772539626,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "+Doz Pudge Muffins ($20)",
+        "label_color": "9da2a6",
+        "visibility": "PRIVATE",
+        "category_id": "OJY5L6U653Y7ZGJPZI3CKYHN",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "TUE6VAF56XU57GSGPNHJTMQ3",
+            "updated_at": "2020-09-16T19:58:44.817Z",
+            "version": 1600286324817,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "SILEZ2WGRAW5UAJUQODD3724",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 2000,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": true,
+        "ecom_visibility": "VISIBLE",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "2L4HYHYCIO5OV2ZBMQ6IC7ZV",
+      "updated_at": "2020-11-25T21:00:30.441Z",
+      "version": 1606338030441,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "2lb brisket",
+        "label_color": "9da2a6",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "FMM4UBTABRLV4YBCPDAT6VG5",
+            "updated_at": "2020-11-25T20:36:31.766Z",
+            "version": 1606336591766,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "2L4HYHYCIO5OV2ZBMQ6IC7ZV",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 3000,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": false,
+        "ecom_visibility": "UNINDEXED",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "CNQMPYIVESA47ENV2U7OBHST",
+      "updated_at": "2020-11-25T21:00:30.03Z",
+      "version": 1606338030030,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "2lb chopped brisket",
+        "label_color": "9da2a6",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "JFC2KL7U35DFVMCTHQIJ7INP",
+            "updated_at": "2020-11-25T20:36:31.766Z",
+            "version": 1606336591766,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "CNQMPYIVESA47ENV2U7OBHST",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 2500,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": false,
+        "ecom_visibility": "UNINDEXED",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "2U53PEOEHESSUNSALQS4YWVF",
+      "updated_at": "2020-09-22T02:10:38.946Z",
+      "version": 1600740638946,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "3-Bone Rib (meal)",
+        "description": "",
+        "label_color": "9da2a6",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "4EKI2C2MICKTUCVQQYD34ZZU",
+            "updated_at": "2020-09-22T01:48:04.978Z",
+            "version": 1600739284978,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "2U53PEOEHESSUNSALQS4YWVF",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1100,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": true,
+        "ecom_visibility": "VISIBLE",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "F3RZRWGLUAFASJTMY3RW2KCD",
+      "updated_at": "2020-09-22T01:53:45.216Z",
+      "version": 1600739625216,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "3-Bone Rib (only)",
+        "description": "",
+        "label_color": "9da2a6",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "LIQJSXEH74JDNZ4MWXALLB6H",
+            "updated_at": "2020-09-22T01:48:06.22Z",
+            "version": 1600739286220,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "F3RZRWGLUAFASJTMY3RW2KCD",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 700,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": true,
+        "ecom_visibility": "VISIBLE",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "TDCMNVK3E35DMKS6D77P2COC",
+      "updated_at": "2020-09-22T02:07:10.314Z",
+      "version": 1600740430314,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "6-Bone Rib (meal)",
+        "description": "",
+        "label_color": "9da2a6",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "V2YUZRTTSJWA4EYXWGIOF5JR",
+            "updated_at": "2020-09-22T01:48:05.957Z",
+            "version": 1600739285957,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "TDCMNVK3E35DMKS6D77P2COC",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1800,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": true,
+        "ecom_visibility": "VISIBLE",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "KDOODKN743JT36AKYBPM4FNA",
+      "updated_at": "2020-09-22T02:02:58.84Z",
+      "version": 1600740178840,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "6-Bone Rib (only)",
+        "description": "",
+        "label_color": "9da2a6",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "36SFOKQOTRE6UIBPFQAK5Y7U",
+            "updated_at": "2020-09-22T01:48:09.658Z",
+            "version": 1600739289658,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "KDOODKN743JT36AKYBPM4FNA",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1400,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": true,
+        "ecom_visibility": "VISIBLE",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "JKJFF4GHCSRYV5F66D7CSKSK",
+      "updated_at": "2020-09-22T01:54:14.634Z",
+      "version": 1600739654634,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Arnold Palmer",
+        "description": "",
+        "label_color": "e5bf00",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "KEVMLC5WTDM5LGTLQAKQJ4WZ",
+            "updated_at": "2020-07-06T10:31:35.829Z",
+            "version": 1594031495829,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "JKJFF4GHCSRYV5F66D7CSKSK",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 100,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": true,
+        "ecom_visibility": "VISIBLE",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "DXVVNIEIEELQACZUMOTX7DYZ",
+      "updated_at": "2020-10-06T20:06:55.847Z",
+      "version": 1602014815847,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "BE Nachos (TT - $12)",
+        "description": "",
+        "label_color": "2952cc",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "OVUHJZEFZOO74JQXOFOFXE5L",
+            "updated_at": "2020-10-06T20:06:43.319Z",
+            "version": 1602014803319,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "DXVVNIEIEELQACZUMOTX7DYZ",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1200,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": false,
+        "ecom_visibility": "UNINDEXED",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "SXIRCOH2BSO6XBXVXWQWJTDB",
+      "updated_at": "2020-10-06T20:06:55.792Z",
+      "version": 1602014815792,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "BE Nachos (meal)",
+        "description": "",
+        "label_color": "2952cc",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "JXZLPRNVDZEGCTC4HFYNJ7F6",
+            "updated_at": "2020-10-06T20:06:43.319Z",
+            "version": 1602014803319,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "SXIRCOH2BSO6XBXVXWQWJTDB",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1600,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": false,
+        "ecom_visibility": "UNINDEXED",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "KNAPCPV4EQOCFO3MSA3W4DUG",
+      "updated_at": "2020-10-06T20:06:43.319Z",
+      "version": 1602014803319,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "BE Tacos (TT - 1)",
+        "description": "",
+        "label_color": "2952cc",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "UDU3Y2SNQVEH6J2VRRCWNGRD",
+            "updated_at": "2020-10-06T20:00:13.63Z",
+            "version": 1602014413630,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "KNAPCPV4EQOCFO3MSA3W4DUG",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 400,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": false,
+        "ecom_visibility": "UNINDEXED",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "BMKXX7UTMZURRJHZLLMCT2O7",
+      "updated_at": "2020-10-06T20:06:43.319Z",
+      "version": 1602014803319,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "BE Tacos (TT - 3)",
+        "description": "",
+        "label_color": "2952cc",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "3DJMRRPQM7ZOLSN6RPZZNFT2",
+            "updated_at": "2020-10-06T20:00:30.435Z",
+            "version": 1602014430435,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "BMKXX7UTMZURRJHZLLMCT2O7",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1000,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": false,
+        "ecom_visibility": "UNINDEXED",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "G6Y7SAEPQLXG3J2XUUTMBMLR",
+      "updated_at": "2020-10-06T20:06:43.319Z",
+      "version": 1602014803319,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "BE Tacos (TT - meal)",
+        "description": "",
+        "label_color": "2952cc",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "O6JY25DS3U63UITUD444JACH",
+            "updated_at": "2020-10-06T20:01:46.917Z",
+            "version": 1602014506917,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "G6Y7SAEPQLXG3J2XUUTMBMLR",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1200,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": false,
+        "ecom_visibility": "UNINDEXED",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "MYZPVFCYNRZFALELH3N2T4J7",
+      "updated_at": "2020-10-06T20:06:43.319Z",
+      "version": 1602014803319,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "BE Tacos (TT - w/queso)",
+        "description": "",
+        "label_color": "2952cc",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "HXEBURQZIEPOFKQTJCN3I2ZZ",
+            "updated_at": "2020-10-06T19:59:53Z",
+            "version": 1602014393000,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "MYZPVFCYNRZFALELH3N2T4J7",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1200,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": false,
+        "ecom_visibility": "UNINDEXED",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "NSTBX6YEK63E6BKOES52G37L",
+      "updated_at": "2020-11-19T20:07:17.759Z",
+      "version": 1605816437759,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "BEEF RIB (2 for $5)",
+        "label_color": "9da2a6",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "LTFGW7GP3SKEXHGJ5U6GBQNU",
+            "updated_at": "2020-11-19T20:07:17.759Z",
+            "version": 1605816437759,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "NSTBX6YEK63E6BKOES52G37L",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 500,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": false,
+        "ecom_visibility": "UNINDEXED",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "3T2UYH4CLKKFFBDTWULZNTP7",
+      "updated_at": "2020-10-29T19:32:03.702Z",
+      "version": 1603999923702,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "BEEF RIB (BT - 2 for $20)",
+        "label_color": "9da2a6",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "TVW5HM2GVQAK5ZJEIGQI4HLZ",
+            "updated_at": "2020-10-29T19:31:10.839Z",
+            "version": 1603999870839,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "3T2UYH4CLKKFFBDTWULZNTP7",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 2000,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": false,
+        "ecom_visibility": "UNINDEXED",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "HGG5UVSHOGOY6BJZSJFPKBMS",
+      "updated_at": "2020-10-06T23:05:26.944Z",
+      "version": 1602025526944,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "BRISKET  Tacos (TT - 3 meal)",
+        "description": "",
+        "label_color": "b21212",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "67I6QOYDBIKTXMWFAGPVVG3J",
+            "updated_at": "2020-09-15T18:21:53.058Z",
+            "version": 1600194113058,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "HGG5UVSHOGOY6BJZSJFPKBMS",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1400,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": true,
+        "ecom_visibility": "VISIBLE",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "UZ32QUQGYRNIMGPSZZSOQEAN",
+      "updated_at": "2020-10-06T23:05:26.944Z",
+      "version": 1602025526944,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "BRISKET  Tacos (TT - 3)",
+        "description": "",
+        "label_color": "b21212",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "ZUOQVFWMDNKCKPT4XREXX52Z",
+            "updated_at": "2020-09-15T18:21:22.241Z",
+            "version": 1600194082241,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "UZ32QUQGYRNIMGPSZZSOQEAN",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1000,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": true,
+        "ecom_visibility": "VISIBLE",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "FA7K4HVVAPSDEFJFPKRM2URX",
+      "updated_at": "2020-10-06T23:05:26.944Z",
+      "version": 1602025526944,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "BRISKET  Tacos (TT - w/queso)",
+        "description": "",
+        "label_color": "b21212",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "M3QX6FEBUPIAT4CDU73PZIVS",
+            "updated_at": "2020-10-06T19:58:58.912Z",
+            "version": 1602014338912,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "FA7K4HVVAPSDEFJFPKRM2URX",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1200,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": false,
+        "ecom_visibility": "UNINDEXED",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "3WQUNTORKYHGKZDIM3O2GJDC",
+      "updated_at": "2020-10-06T23:05:26.944Z",
+      "version": 1602025526944,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "BRISKET Tacos (TT - 1)",
+        "description": "",
+        "label_color": "b21212",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "H3ZVMMCJDIH2DB3YI4QV42IA",
+            "updated_at": "2020-09-15T18:21:03.774Z",
+            "version": 1600194063774,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "3WQUNTORKYHGKZDIM3O2GJDC",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 400,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": true,
+        "ecom_visibility": "VISIBLE",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "IVHSL73OPERTMT6H3KLCSNSE",
+      "updated_at": "2020-11-07T18:09:25.845Z",
+      "version": 1604772565845,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Bacon Cheeseburger ($8)",
+        "label_color": "9da2a6",
+        "visibility": "PRIVATE",
+        "category_id": "VSNBI7GNMVZIHMWASUNOBTZU",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "4YFY4VYNWQHMNQS6NR3C2YFZ",
+            "updated_at": "2020-11-04T19:42:35.346Z",
+            "version": 1604518955346,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "IVHSL73OPERTMT6H3KLCSNSE",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 800,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": false,
+        "ecom_visibility": "UNINDEXED",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "HINXU7KDIGMGYDUCAFESXC74",
+      "updated_at": "2020-10-28T19:13:36.955Z",
+      "version": 1603912416955,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Beef Rib",
+        "label_color": "9da2a6",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "QKFOAXE7BPIQDKDQUPXRUNSS",
+            "updated_at": "2020-10-28T19:13:36.955Z",
+            "version": 1603912416955,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "HINXU7KDIGMGYDUCAFESXC74",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1500,
+                "currency": "USD"
+              }
+            }
+          },
+          {
+            "type": "ITEM_VARIATION",
+            "id": "N6KSRYN6JWRTPL6NK7W2KSVY",
+            "updated_at": "2020-10-28T19:13:36.955Z",
+            "version": 1603912416955,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "HINXU7KDIGMGYDUCAFESXC74",
+              "name": "2 for $25",
+              "ordinal": 2,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 2500,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": true,
+        "ecom_visibility": "VISIBLE",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "KZGM6ERHMQ5UW2OGLEGOVOCL",
+      "updated_at": "2020-11-24T20:43:46.343Z",
+      "version": 1606250626343,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Beef Ribs (2/$5)",
+        "visibility": "PRIVATE",
+        "category_id": "UBSMQ2GKNPVFNHA7PPDKEJJ6",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "RBCB6ZZBO2XHCIQFN52BBSYL",
+            "updated_at": "2020-11-24T20:24:04.987Z",
+            "version": 1606249444987,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "KZGM6ERHMQ5UW2OGLEGOVOCL",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 500,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": false,
+        "ecom_visibility": "UNINDEXED",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "NQQWYOKVR57CPTQB3FCTEFJP",
+      "updated_at": "2020-11-07T18:07:27.383Z",
+      "version": 1604772447383,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Black Beans & Rice",
+        "label_color": "b21212",
+        "visibility": "PRIVATE",
+        "category_id": "OJY5L6U653Y7ZGJPZI3CKYHN",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "IQ3IAXGAW6HEJY56YYDXZTD4",
+            "updated_at": "2020-07-21T14:06:35.163Z",
+            "version": 1595340395163,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "NQQWYOKVR57CPTQB3FCTEFJP",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 250,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": true,
+        "ecom_visibility": "VISIBLE",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "THC42KLSYGWR3SIPHMZEUABT",
+      "updated_at": "2020-11-07T18:07:27.383Z",
+      "version": 1604772447383,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Black Beans & Rice (Pint)",
+        "label_color": "b21212",
+        "visibility": "PRIVATE",
+        "category_id": "OJY5L6U653Y7ZGJPZI3CKYHN",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "E45VS2KB7VDQLS5WB7QI3I4X",
+            "updated_at": "2020-08-04T16:36:28.281Z",
+            "version": 1596558988281,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "THC42KLSYGWR3SIPHMZEUABT",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 900,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": true,
+        "ecom_visibility": "VISIBLE",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "QDTNZNLGUB4HHRV2SGHVNS6O",
+      "updated_at": "2020-11-07T18:07:27.383Z",
+      "version": 1604772447383,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Black Beans & Rice (Quart)",
+        "label_color": "b21212",
+        "visibility": "PRIVATE",
+        "category_id": "OJY5L6U653Y7ZGJPZI3CKYHN",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "VJST7Q2CJAWZJ2JGFJROJFNE",
+            "updated_at": "2020-09-22T01:48:05.614Z",
+            "version": 1600739285614,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "QDTNZNLGUB4HHRV2SGHVNS6O",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1700,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": true,
+        "ecom_visibility": "VISIBLE",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "M25LO37N7FPDZ7ZBUUT2VU43",
+      "updated_at": "2020-11-07T18:08:10.522Z",
+      "version": 1604772490522,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Blues Burger ($10)",
+        "label_color": "2952cc",
+        "visibility": "PRIVATE",
+        "category_id": "VSNBI7GNMVZIHMWASUNOBTZU",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "UJMDU43D64GKUVOEKW2FYC6K",
+            "updated_at": "2020-11-04T19:38:07.656Z",
+            "version": 1604518687656,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "M25LO37N7FPDZ7ZBUUT2VU43",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1000,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": false,
+        "ecom_visibility": "UNINDEXED",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "5IWPPBLJS7PMFVHRBL6TBHMG",
+      "updated_at": "2020-11-07T18:08:10.522Z",
+      "version": 1604772490522,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Blues Burger (meal)",
+        "label_color": "2952cc",
+        "visibility": "PRIVATE",
+        "category_id": "VSNBI7GNMVZIHMWASUNOBTZU",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "WAXUW7B3HWAQLPHOJ7SP2NU3",
+            "updated_at": "2020-11-04T19:38:07.656Z",
+            "version": 1604518687656,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "5IWPPBLJS7PMFVHRBL6TBHMG",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1400,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": false,
+        "ecom_visibility": "UNINDEXED",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "CNF23IW3PYNK5QFYEQIAMZRV",
+      "updated_at": "2020-09-22T02:11:59.193Z",
+      "version": 1600740719193,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Bottle Water",
+        "description": "",
+        "label_color": "13b1bf",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "6XRZLQLF3EZSO6NBHPQSGBE7",
+            "updated_at": "2020-07-04T17:01:01.406Z",
+            "version": 1593882061406,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "CNF23IW3PYNK5QFYEQIAMZRV",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 100,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": true,
+        "ecom_visibility": "VISIBLE",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "DVTMG7G45R36OIKWEZDEPZS2",
+      "updated_at": "2020-09-22T01:59:35.998Z",
+      "version": 1600739975998,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Brisket (+1 side)",
+        "description": "",
+        "label_color": "13b1bf",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "4MH76K2OVUB5RZVDXH7VCS5Y",
+            "updated_at": "2020-09-22T01:48:03.781Z",
+            "version": 1600739283781,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "DVTMG7G45R36OIKWEZDEPZS2",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1350,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": true,
+        "ecom_visibility": "VISIBLE",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "FIVTDOSNW43HF26GPAHVJZCV",
+      "updated_at": "2020-09-22T02:05:35.926Z",
+      "version": 1600740335926,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Brisket (1/2lb - $11)",
+        "description": "",
+        "label_color": "0b8000",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "H36BJXMGKULJNT33PPAYXJB7",
+            "updated_at": "2020-09-22T01:48:08.632Z",
+            "version": 1600739288632,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "FIVTDOSNW43HF26GPAHVJZCV",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1100,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": true,
+        "ecom_visibility": "VISIBLE",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "EUV4ZOZQCQRS3N3JVT3SM23T",
+      "updated_at": "2020-11-19T22:18:45.179Z",
+      "version": 1605824325179,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Brisket (1lb)",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "CCRLJYXGA5MI43KY5GIB4SWI",
+            "updated_at": "2020-11-19T22:18:28.043Z",
+            "version": 1605824308043,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "EUV4ZOZQCQRS3N3JVT3SM23T",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "VARIABLE_PRICING"
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": false,
+        "ecom_visibility": "UNINDEXED",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "DQCSRS7TNRXDW7MZG4J4S4AE",
+      "updated_at": "2020-11-18T20:30:53.536Z",
+      "version": 1605731453536,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Brisket (2lb - $30)",
+        "label_color": "0b8000",
+        "visibility": "PRIVATE",
+        "category_id": "CZZWCU4DXFLPHTS7UPO5GMAI",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "LG3IKQLUILWSARMJTYVAIMRI",
+            "updated_at": "2020-09-22T01:48:05.295Z",
+            "version": 1600739285295,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "DQCSRS7TNRXDW7MZG4J4S4AE",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 3000,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": true,
+        "ecom_visibility": "VISIBLE",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "JZMUINT7BNHDI6UQFQOAGADL",
+      "updated_at": "2020-11-19T22:18:45.232Z",
+      "version": 1605824325232,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Brisket (2lb)",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "IPB3X5MQZIGRLFZJ4PF3CL23",
+            "updated_at": "2020-11-19T22:18:28.043Z",
+            "version": 1605824308043,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "JZMUINT7BNHDI6UQFQOAGADL",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "VARIABLE_PRICING"
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": false,
+        "ecom_visibility": "UNINDEXED",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "VNIT3I4W4W3LNN5ESBX7FO7N",
+      "updated_at": "2020-10-15T20:02:25.213Z",
+      "version": 1602792145213,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Brisket (BT - 1/2lb)",
+        "description": "",
+        "label_color": "b21212",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "KOSIILFECABYENVYRKUKDGWU",
+            "updated_at": "2020-10-01T20:23:16.617Z",
+            "version": 1601583796617,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "VNIT3I4W4W3LNN5ESBX7FO7N",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1000,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": false,
+        "ecom_visibility": "UNINDEXED",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "D47Q2HYCZP4YHNLKOU77EJ4K",
+      "updated_at": "2020-11-19T19:52:01.946Z",
+      "version": 1605815521946,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Brisket (BT - 1lb)",
+        "label_color": "b21212",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "DY6BARK7LEWKHLEHF7ACQDGC",
+            "updated_at": "2020-11-19T19:52:01.946Z",
+            "version": 1605815521946,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "D47Q2HYCZP4YHNLKOU77EJ4K",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1600,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": true,
+        "ecom_visibility": "VISIBLE",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "PRTZJPK5ZGSADHZBKXISIV6B",
+      "updated_at": "2020-10-15T20:02:25.213Z",
+      "version": 1602792145213,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Brisket (BT - 2lb for $30)",
+        "description": "",
+        "label_color": "b21212",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "3JMN2KT7R4LCPPF6K7EQRDKI",
+            "updated_at": "2020-09-17T20:07:36.982Z",
+            "version": 1600373256982,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "PRTZJPK5ZGSADHZBKXISIV6B",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 3000,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": true,
+        "ecom_visibility": "VISIBLE",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "PDMKUT2O2DRGEXRDCZATONRH",
+      "updated_at": "2020-10-15T20:02:25.213Z",
+      "version": 1602792145213,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Brisket (BT - Meal)",
+        "description": "",
+        "label_color": "b21212",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "ZLI4UREDHJN7QG3REHDZGFAD",
+            "updated_at": "2020-09-17T20:07:36.982Z",
+            "version": 1600373256982,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "PDMKUT2O2DRGEXRDCZATONRH",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1400,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": true,
+        "ecom_visibility": "VISIBLE",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "2XX5MM6HYPRGF62RO4AUEEVA",
+      "updated_at": "2020-10-15T20:02:25.213Z",
+      "version": 1602792145213,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Brisket (BT - only)",
+        "description": "",
+        "label_color": "b21212",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "RNUMC32FWQS4HMDQ5Z2JPYAE",
+            "updated_at": "2020-09-17T20:07:36.982Z",
+            "version": 1600373256982,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "2XX5MM6HYPRGF62RO4AUEEVA",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1000,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": true,
+        "ecom_visibility": "VISIBLE",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "3PDYRUT43I4GOJIBI6WXY4U2",
+      "updated_at": "2020-09-22T02:07:28.052Z",
+      "version": 1600740448052,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Brisket (meal)",
+        "description": "",
+        "label_color": "13b1bf",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "PYFLHZSLJR3F57H7GJO33TUY",
+            "updated_at": "2020-09-22T01:48:02.909Z",
+            "version": 1600739282909,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "3PDYRUT43I4GOJIBI6WXY4U2",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1600,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": true,
+        "ecom_visibility": "VISIBLE",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "KM3D5SLJM7WMY7S3PUHV3F74",
+      "updated_at": "2020-11-19T21:24:09.489Z",
+      "version": 1605821049489,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Brisket (plate)",
+        "label_color": "13b1bf",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "CC7KWCGTFBE4IIQGCN4QOJBH",
+            "updated_at": "2020-11-19T21:18:23.531Z",
+            "version": 1605820703531,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "KM3D5SLJM7WMY7S3PUHV3F74",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1200,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": false,
+        "ecom_visibility": "UNINDEXED",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "JVM7UVHPILUAH6ZDSO47SBEU",
+      "updated_at": "2020-11-24T20:43:46.468Z",
+      "version": 1606250626468,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Brisket (sandwich)",
+        "visibility": "PRIVATE",
+        "category_id": "UBSMQ2GKNPVFNHA7PPDKEJJ6",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "GBHFCJ3SVE75MNW3B3JYQH47",
+            "updated_at": "2020-11-24T20:24:04.987Z",
+            "version": 1606249444987,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "JVM7UVHPILUAH6ZDSO47SBEU",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1000,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": false,
+        "ecom_visibility": "UNINDEXED",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "K2MPLAEXR7MMJ5YXWI4NAM3B",
+      "updated_at": "2020-11-19T21:18:23.531Z",
+      "version": 1605820703531,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Brisket (sandwich)",
+        "label_color": "13b1bf",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "W4MS6MYS6OHM724GWR5NGNCV",
+            "updated_at": "2020-09-22T01:48:04.902Z",
+            "version": 1600739284902,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "K2MPLAEXR7MMJ5YXWI4NAM3B",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1200,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": true,
+        "ecom_visibility": "VISIBLE",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "E3DX5QZNERYEFHULUIZZYPTA",
+      "updated_at": "2020-11-25T20:53:50.803Z",
+      "version": 1606337630803,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Brisket Chili (Bowl)",
+        "label_color": "9da2a6",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "TOXAIRKDCFKVC36M2VLWOMH2",
+            "updated_at": "2020-11-25T20:53:50.803Z",
+            "version": 1606337630803,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "E3DX5QZNERYEFHULUIZZYPTA",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 500,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": false,
+        "ecom_visibility": "UNINDEXED",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "HGBAWMZOKQAGTKD7CP5CNET5",
+      "updated_at": "2020-11-25T20:53:57.488Z",
+      "version": 1606337637488,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Brisket Chili (Cup)",
+        "label_color": "9da2a6",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "CI6YRANCAUTBLYN323TFUJI2",
+            "updated_at": "2020-11-25T20:53:57.488Z",
+            "version": 1606337637488,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "HGBAWMZOKQAGTKD7CP5CNET5",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 300,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": false,
+        "ecom_visibility": "UNINDEXED",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "5GBFRUBWZJ5PPJMAZSYYWYDK",
+      "updated_at": "2020-10-07T19:44:52.577Z",
+      "version": 1602099892577,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Brisket Chili w/Pudge",
+        "description": "",
+        "label_color": "9da2a6",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "KKIB2HNPHHCFZK654YOQ5U6H",
+            "updated_at": "2020-10-07T19:44:38.519Z",
+            "version": 1602099878519,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "5GBFRUBWZJ5PPJMAZSYYWYDK",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1000,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": false,
+        "ecom_visibility": "UNINDEXED",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "VVBD6KP5G2DGCBKHHE7MBIEX",
+      "updated_at": "2020-10-20T18:47:51.253Z",
+      "version": 1603219671253,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Brisket Chopped (2 for $25)",
+        "description": "",
+        "label_color": "9da2a6",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "7KLS3IB3P24NVY2QZY3CVNSY",
+            "updated_at": "2020-10-20T18:47:23.165Z",
+            "version": 1603219643165,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "VVBD6KP5G2DGCBKHHE7MBIEX",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 2500,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": false,
+        "ecom_visibility": "UNINDEXED",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "OFBGMU7NSAHS3WMZTKWXP7FN",
+      "updated_at": "2020-11-19T19:52:29.177Z",
+      "version": 1605815549177,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Brisket Chopped (lb - $15)",
+        "label_color": "9da2a6",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "RCM47IOQ227MWSBZYYZ6BSP5",
+            "updated_at": "2020-11-19T19:52:29.177Z",
+            "version": 1605815549177,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "OFBGMU7NSAHS3WMZTKWXP7FN",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1300,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": false,
+        "ecom_visibility": "UNINDEXED",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "Q7OWR3LVDNVDBH2DEVFO2YAA",
+      "updated_at": "2020-11-07T15:44:07.42Z",
+      "version": 1604763847420,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Brisket Nachos ($12)",
+        "label_color": "b21212",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "2MQV5FDWAJKIIGENL35DLM2B",
+            "updated_at": "2020-09-22T20:36:32.142Z",
+            "version": 1600806992142,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "Q7OWR3LVDNVDBH2DEVFO2YAA",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1200,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": false,
+        "ecom_visibility": "UNINDEXED",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "B4PO6D2AX5ZCZ5BCYPZELBDG",
+      "updated_at": "2020-11-19T20:46:41.062Z",
+      "version": 1605818801062,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Brisket Nachos (BT - meal)",
+        "label_color": "b21212",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "MWRE35S6IUJ4DFZDOFCPREKZ",
+            "updated_at": "2020-11-19T20:46:41.062Z",
+            "version": 1605818801062,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "B4PO6D2AX5ZCZ5BCYPZELBDG",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1400,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": false,
+        "ecom_visibility": "UNINDEXED",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "4PIHCK72MP56LROUOEMKG34J",
+      "updated_at": "2020-10-15T20:02:25.213Z",
+      "version": 1602792145213,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Brisket Nachos (BT - only)",
+        "description": "",
+        "label_color": "b21212",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "KWXR3RQIQ4KPO3ZUNMV65UTB",
+            "updated_at": "2020-10-01T20:23:16.617Z",
+            "version": 1601583796617,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "4PIHCK72MP56LROUOEMKG34J",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1200,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": false,
+        "ecom_visibility": "UNINDEXED",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "XIMLTV2F4DJFA4KXYIJ53M67",
+      "updated_at": "2020-11-07T15:44:27.282Z",
+      "version": 1604763867282,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Brisket Nachos (Meal - $14)",
+        "label_color": "b21212",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "M4RFTGJJTL2VZGGJ43J434QC",
+            "updated_at": "2020-09-22T21:16:24.316Z",
+            "version": 1600809384316,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "XIMLTV2F4DJFA4KXYIJ53M67",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1400,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": false,
+        "ecom_visibility": "UNINDEXED",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "DNFZDI3BGOTQMHPZTOSRUNKF",
+      "updated_at": "2020-11-07T18:11:33.083Z",
+      "version": 1604772693083,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Brisket Nachos (meal)",
+        "label_color": "e5bf00",
+        "visibility": "PRIVATE",
+        "category_id": "ETTCC4AYOD3QYMONLXU6VY34",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "VTYEECSBQGU2HO537ZEUYWMN",
+            "updated_at": "2020-09-08T21:07:27.686Z",
+            "version": 1599599247686,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "DNFZDI3BGOTQMHPZTOSRUNKF",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1600,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": true,
+        "ecom_visibility": "VISIBLE",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "LBBOPFLZKTYNH35XKLKKSXLI",
+      "updated_at": "2020-11-07T18:11:33.083Z",
+      "version": 1604772693083,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Brisket Nachos (only)",
+        "label_color": "e5bf00",
+        "visibility": "PRIVATE",
+        "category_id": "ETTCC4AYOD3QYMONLXU6VY34",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "LGCHGJK2VZEE5V4U63MFKVEY",
+            "updated_at": "2020-09-02T19:21:22.811Z",
+            "version": 1599074482811,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "LBBOPFLZKTYNH35XKLKKSXLI",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1200,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": true,
+        "ecom_visibility": "VISIBLE",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "VUVNICR3W3FTH6RU5TATKOQG",
+      "updated_at": "2020-11-07T18:21:24.231Z",
+      "version": 1604773284231,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Brisket Tacos (1)",
+        "label_color": "e5457a",
+        "visibility": "PRIVATE",
+        "category_id": "BF3LMQWCJTIKONARMDYL3Q75",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "modifier_list_info": [
+          {
+            "modifier_list_id": "DXBSBK433AQ7L3BOINBTSGWI",
+            "visibility": "PUBLIC",
+            "min_selected_modifiers": -1,
+            "max_selected_modifiers": -1,
+            "enabled": true
+          }
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "ETLJU6UHPYMFZTFXNNHHT63M",
+            "updated_at": "2020-09-02T19:17:56.477Z",
+            "version": 1599074276477,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "VUVNICR3W3FTH6RU5TATKOQG",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 450,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": true,
+        "ecom_visibility": "VISIBLE",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "CIKDWDK4GWW4EYZOB5FGJL6G",
+      "updated_at": "2020-11-07T18:21:24.231Z",
+      "version": 1604773284231,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Brisket Tacos (3 - meal)",
+        "label_color": "e5457a",
+        "visibility": "PRIVATE",
+        "category_id": "BF3LMQWCJTIKONARMDYL3Q75",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "modifier_list_info": [
+          {
+            "modifier_list_id": "DXBSBK433AQ7L3BOINBTSGWI",
+            "visibility": "PUBLIC",
+            "min_selected_modifiers": -1,
+            "max_selected_modifiers": -1,
+            "enabled": true
+          }
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "KXCEIOUNNF53OO2EZYNHFIRZ",
+            "updated_at": "2020-09-08T21:05:08.547Z",
+            "version": 1599599108547,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "CIKDWDK4GWW4EYZOB5FGJL6G",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1600,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": true,
+        "ecom_visibility": "VISIBLE",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "3DUOTMKRYJCLAJCFHTT2JWKC",
+      "updated_at": "2020-11-07T18:21:24.231Z",
+      "version": 1604773284231,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Brisket Tacos (3)",
+        "label_color": "e5457a",
+        "visibility": "PRIVATE",
+        "category_id": "BF3LMQWCJTIKONARMDYL3Q75",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "modifier_list_info": [
+          {
+            "modifier_list_id": "DXBSBK433AQ7L3BOINBTSGWI",
+            "visibility": "PUBLIC",
+            "min_selected_modifiers": -1,
+            "max_selected_modifiers": -1,
+            "enabled": true
+          }
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "ZE3YZT3ZUOWSHM27UOINBLD2",
+            "updated_at": "2020-09-02T19:18:13.03Z",
+            "version": 1599074293030,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "3DUOTMKRYJCLAJCFHTT2JWKC",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1200,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": true,
+        "ecom_visibility": "VISIBLE",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "KINTBOSBUQGS6RCJR7DJCIED",
+      "updated_at": "2020-10-15T20:02:25.213Z",
+      "version": 1602792145213,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Brisket Tacos (BT - 3 meal)",
+        "description": "",
+        "label_color": "b21212",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "P72DOHR6VMIPV7LTI5RU2EDT",
+            "updated_at": "2020-10-01T20:23:16.617Z",
+            "version": 1601583796617,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "KINTBOSBUQGS6RCJR7DJCIED",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1400,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": false,
+        "ecom_visibility": "UNINDEXED",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "RILNUBGRKOTC73PTQTKPN54L",
+      "updated_at": "2020-10-15T20:02:25.213Z",
+      "version": 1602792145213,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Brisket Tacos (BT - 3)",
+        "description": "",
+        "label_color": "b21212",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "5EKMJNUAJZMRJ55NPUP6XFGJ",
+            "updated_at": "2020-10-01T20:23:16.617Z",
+            "version": 1601583796617,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "RILNUBGRKOTC73PTQTKPN54L",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1000,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": false,
+        "ecom_visibility": "UNINDEXED",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "3F4E7KT2EJVNX6TAS4OISPKS",
+      "updated_at": "2020-10-15T20:02:25.213Z",
+      "version": 1602792145213,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Brisket Tacos (BW - 1)",
+        "description": "",
+        "label_color": "b21212",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "W7BZPKBTX4R3SSMO3URI57PU",
+            "updated_at": "2020-10-01T20:23:16.617Z",
+            "version": 1601583796617,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "3F4E7KT2EJVNX6TAS4OISPKS",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 400,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": false,
+        "ecom_visibility": "UNINDEXED",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "LQCAR3KDX6XF3S5H4REY34Y4",
+      "updated_at": "2020-10-15T20:02:25.213Z",
+      "version": 1602792145213,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Burnt End Nachos (BT - me",
+        "description": "",
+        "label_color": "0b8000",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "KRBBK4SAFED2EQRJAIYTR4DO",
+            "updated_at": "2020-10-15T19:58:56.119Z",
+            "version": 1602791936119,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "LQCAR3KDX6XF3S5H4REY34Y4",
+              "name": "Regular",
+              "sku": "",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1600,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": false,
+        "ecom_visibility": "UNINDEXED",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "LBZ2QQGNWKV4DX65SG36Q3GU",
+      "updated_at": "2020-10-15T20:02:25.213Z",
+      "version": 1602792145213,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Burnt End Nachos (BT - onl",
+        "description": "",
+        "label_color": "0b8000",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "RK2BCI2NAJYYPBCXUUMQ45DO",
+            "updated_at": "2020-10-15T19:59:12.62Z",
+            "version": 1602791952620,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "LBZ2QQGNWKV4DX65SG36Q3GU",
+              "name": "Regular",
+              "sku": "",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1200,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": false,
+        "ecom_visibility": "UNINDEXED",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "NZ2GDWVQJHTZ7YUNQT7BFNKU",
+      "updated_at": "2020-11-07T18:21:24.231Z",
+      "version": 1604773284231,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Burnt End Tacos (BT - 1)",
+        "description": "",
+        "label_color": "0b8000",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "modifier_list_info": [
+          {
+            "modifier_list_id": "DXBSBK433AQ7L3BOINBTSGWI",
+            "visibility": "PUBLIC",
+            "min_selected_modifiers": -1,
+            "max_selected_modifiers": -1,
+            "enabled": true
+          }
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "JZJ7MVICGI2ZTEDSVZ42IGSG",
+            "updated_at": "2020-10-01T20:23:16.617Z",
+            "version": 1601583796617,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "NZ2GDWVQJHTZ7YUNQT7BFNKU",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 450,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": false,
+        "ecom_visibility": "UNINDEXED",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "VY52HLHZYOO2BUXZUZNTVFXP",
+      "updated_at": "2020-11-07T18:21:24.231Z",
+      "version": 1604773284231,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Burnt End Tacos (BT - 3 Meal)",
+        "description": "",
+        "label_color": "0b8000",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "modifier_list_info": [
+          {
+            "modifier_list_id": "DXBSBK433AQ7L3BOINBTSGWI",
+            "visibility": "PUBLIC",
+            "min_selected_modifiers": -1,
+            "max_selected_modifiers": -1,
+            "enabled": true
+          }
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "TW7QVZDIVZWWWS7O7HYKD2HQ",
+            "updated_at": "2020-10-01T20:23:16.617Z",
+            "version": 1601583796617,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "VY52HLHZYOO2BUXZUZNTVFXP",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1600,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": false,
+        "ecom_visibility": "UNINDEXED",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "OCFVSWS5E3CBRUHQBJOHNYNE",
+      "updated_at": "2020-11-19T20:46:32.805Z",
+      "version": 1605818792805,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Burnt End Tacos (BT - 3)",
+        "label_color": "0b8000",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "modifier_list_info": [
+          {
+            "modifier_list_id": "DXBSBK433AQ7L3BOINBTSGWI",
+            "visibility": "PUBLIC",
+            "min_selected_modifiers": -1,
+            "max_selected_modifiers": -1,
+            "enabled": true
+          }
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "ACQHDBDNK35FGTGKSL2R3Z3B",
+            "updated_at": "2020-11-19T20:46:32.805Z",
+            "version": 1605818792805,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "OCFVSWS5E3CBRUHQBJOHNYNE",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1000,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": false,
+        "ecom_visibility": "UNINDEXED",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "5SECL75SQGIBAXBM5BZI3WOR",
+      "updated_at": "2020-09-22T01:52:15.137Z",
+      "version": 1600739535137,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Burnt Ends (+1 side)",
+        "description": "",
+        "label_color": "13b1bf",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "SXOU3KKVNRPA3KQHOW2ZC5UW",
+            "updated_at": "2020-09-22T01:48:02.631Z",
+            "version": 1600739282631,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "5SECL75SQGIBAXBM5BZI3WOR",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1250,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": true,
+        "ecom_visibility": "VISIBLE",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "XXRJBKDV6WZXNS5IUCQZKHMQ",
+      "updated_at": "2020-09-22T02:05:57.64Z",
+      "version": 1600740357640,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Burnt Ends (1/2lb - $13)",
+        "description": "",
+        "label_color": "0b8000",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "PMPTMX4OL4GYLWQCID2EJXAY",
+            "updated_at": "2020-09-22T01:48:03.07Z",
+            "version": 1600739283070,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "XXRJBKDV6WZXNS5IUCQZKHMQ",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1300,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": true,
+        "ecom_visibility": "VISIBLE",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "V3OUNYYSZFHUEIQND23CPGO4",
+      "updated_at": "2020-09-22T02:01:29.343Z",
+      "version": 1600740089343,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Burnt Ends (1lb - $20)",
+        "description": "",
+        "label_color": "0b8000",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "FAE5AZZCVN2IJZQBPLQFEBBZ",
+            "updated_at": "2020-09-22T01:48:07.727Z",
+            "version": 1600739287727,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "V3OUNYYSZFHUEIQND23CPGO4",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 2000,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": true,
+        "ecom_visibility": "VISIBLE",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "5X33F643UFLFP7KC76CMPYTF",
+      "updated_at": "2020-11-19T22:18:48.498Z",
+      "version": 1605824328498,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Burnt Ends (1lb)",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "VF3UGLGRJ2XOXTND7BNZVTYW",
+            "updated_at": "2020-11-19T22:18:28.043Z",
+            "version": 1605824308043,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "5X33F643UFLFP7KC76CMPYTF",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "VARIABLE_PRICING"
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": false,
+        "ecom_visibility": "UNINDEXED",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "MO5HFDDJAVKY2ZSBWRKK2DN7",
+      "updated_at": "2020-09-22T01:52:51.665Z",
+      "version": 1600739571665,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Burnt Ends (2lb - $35)",
+        "description": "",
+        "label_color": "0b8000",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "6FIHZCRM4A5XROJH2XQAXFK3",
+            "updated_at": "2020-08-27T20:42:23.609Z",
+            "version": 1598560943609,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "MO5HFDDJAVKY2ZSBWRKK2DN7",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 3500,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": true,
+        "ecom_visibility": "VISIBLE",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "5O5X7V2LUOK6J4WUHRGSQR4N",
+      "updated_at": "2020-11-19T22:18:48.6Z",
+      "version": 1605824328600,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Burnt Ends (2lb)",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "ZDH7Y25R3UGVSNZJJTRBMZJI",
+            "updated_at": "2020-11-19T22:18:28.043Z",
+            "version": 1605824308043,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "5O5X7V2LUOK6J4WUHRGSQR4N",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "VARIABLE_PRICING"
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": false,
+        "ecom_visibility": "UNINDEXED",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "GSHWTOSRYQRCXQZPKYDFGZMT",
+      "updated_at": "2020-10-15T20:02:25.213Z",
+      "version": 1602792145213,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Burnt Ends (BT - 1/2lb)",
+        "description": "",
+        "label_color": "0b8000",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "5BE6ID2WFMUVVONTQMBGYSY6",
+            "updated_at": "2020-09-17T20:07:36.982Z",
+            "version": 1600373256982,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "GSHWTOSRYQRCXQZPKYDFGZMT",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1000,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": true,
+        "ecom_visibility": "VISIBLE",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "SHBFR5SH5ESGAZILSTGUIULT",
+      "updated_at": "2020-11-19T20:07:17.759Z",
+      "version": 1605816437759,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Burnt Ends (BT - 1lb)",
+        "label_color": "0b8000",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "6HALSDHKBLAISPTNDL2ZDHE7",
+            "updated_at": "2020-11-19T20:07:17.759Z",
+            "version": 1605816437759,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "SHBFR5SH5ESGAZILSTGUIULT",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1600,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": true,
+        "ecom_visibility": "VISIBLE",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "5JSIE5ZH6P6IGILAXECT46YY",
+      "updated_at": "2020-10-15T20:02:25.213Z",
+      "version": 1602792145213,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Burnt Ends (BT - meal)",
+        "description": "",
+        "label_color": "0b8000",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "EHTTJ2W3IGKTLOHHFMOUXGP6",
+            "updated_at": "2020-09-17T20:07:36.982Z",
+            "version": 1600373256982,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "5JSIE5ZH6P6IGILAXECT46YY",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1400,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": true,
+        "ecom_visibility": "VISIBLE",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "ST3G54I4DGV4ACSFNAB2PMIO",
+      "updated_at": "2020-10-15T20:02:25.213Z",
+      "version": 1602792145213,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Burnt Ends (BT - only)",
+        "description": "",
+        "label_color": "0b8000",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "6TEOQSXC5HWJ3G5ZMCAVIK6Z",
+            "updated_at": "2020-09-17T20:07:36.982Z",
+            "version": 1600373256982,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "ST3G54I4DGV4ACSFNAB2PMIO",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1000,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": true,
+        "ecom_visibility": "VISIBLE",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "DRNEFXCVP3KAQ3GS6ZFWKAYI",
+      "updated_at": "2020-10-15T20:02:25.213Z",
+      "version": 1602792145213,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Burnt Ends (BT- 2lb for $30)",
+        "description": "",
+        "label_color": "0b8000",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "HEC3EDPETBHST6S3QSUKXRER",
+            "updated_at": "2020-10-15T19:59:28.051Z",
+            "version": 1602791968051,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "DRNEFXCVP3KAQ3GS6ZFWKAYI",
+              "name": "Regular",
+              "sku": "",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 3000,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": true,
+        "ecom_visibility": "VISIBLE",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "4L2UA26XXLVR2QDR5PHUABDI",
+      "updated_at": "2020-11-19T20:32:34.954Z",
+      "version": 1605817954954,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Burnt Ends (meal)",
+        "label_color": "13b1bf",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "KV5DWMRY2DM2GNEUR6YN4TNU",
+            "updated_at": "2020-11-19T20:32:34.954Z",
+            "version": 1605817954954,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "4L2UA26XXLVR2QDR5PHUABDI",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1400,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": true,
+        "ecom_visibility": "VISIBLE",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "TG47BL5IAMGY72DH4QFSULFS",
+      "updated_at": "2020-11-19T21:29:23.349Z",
+      "version": 1605821363349,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Burnt Ends (plate)",
+        "label_color": "9da2a6",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "N7MAV7LDYXT4WAIRFS3POAYZ",
+            "updated_at": "2020-11-19T21:22:11.652Z",
+            "version": 1605820931652,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "TG47BL5IAMGY72DH4QFSULFS",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1000,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": false,
+        "ecom_visibility": "UNINDEXED",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "XQPHEPYKL566M4OY6GK2HOHX",
+      "updated_at": "2020-11-19T21:22:11.652Z",
+      "version": 1605820931652,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Burnt Ends (sandwich)",
+        "label_color": "13b1bf",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "I5AAP7EKKQZTGBAGHVXZVGFH",
+            "updated_at": "2020-11-19T20:32:30.287Z",
+            "version": 1605817950287,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "XQPHEPYKL566M4OY6GK2HOHX",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1000,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": true,
+        "ecom_visibility": "VISIBLE",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "EX7BLUX5EZD4OJQJAQAWBYQO",
+      "updated_at": "2020-11-19T20:32:13.259Z",
+      "version": 1605817933259,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Burnt Ends Nachos (meal)",
+        "label_color": "e5bf00",
+        "visibility": "PRIVATE",
+        "category_id": "ETTCC4AYOD3QYMONLXU6VY34",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "K5ZCFVLTGH53AMNONUBDIJS2",
+            "updated_at": "2020-11-19T20:32:13.259Z",
+            "version": 1605817933259,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "EX7BLUX5EZD4OJQJAQAWBYQO",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1600,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": true,
+        "ecom_visibility": "VISIBLE",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "JAVSAKKLMY2CNLOXQSYA7TT3",
+      "updated_at": "2020-11-19T20:32:00.31Z",
+      "version": 1605817920310,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Burnt Ends Nachos (only)",
+        "label_color": "e5bf00",
+        "visibility": "PRIVATE",
+        "category_id": "ETTCC4AYOD3QYMONLXU6VY34",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "BOASZIC5M6G2SCASLSMHMAG7",
+            "updated_at": "2020-11-19T20:32:00.31Z",
+            "version": 1605817920310,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "JAVSAKKLMY2CNLOXQSYA7TT3",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1000,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": true,
+        "ecom_visibility": "VISIBLE",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "NV2K6IAZGFLSR3GNFUFXFCQ2",
+      "updated_at": "2020-09-22T02:03:30.199Z",
+      "version": 1600740210199,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Burnt Ends Sandwich (1 side)",
+        "description": "",
+        "label_color": "9da2a6",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "LILZMNRFDZQDNYE2GLNWNVS4",
+            "updated_at": "2020-06-11T17:23:47.181Z",
+            "version": 1591896227181,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "NV2K6IAZGFLSR3GNFUFXFCQ2",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1400,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": true,
+        "ecom_visibility": "VISIBLE",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "UR7LDSRTE6ELN4GFEWBUZKHU",
+      "updated_at": "2020-09-22T01:59:57.235Z",
+      "version": 1600739997235,
+      "is_deleted": false,
+      "catalog_v1_ids": [
+        {
+          "catalog_v1_id": "FFEC78E4-C8FD-4445-A0AE-E1FA032B2013",
+          "location_id": "9GR4PZQ3CP55D"
+        }
+      ],
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Burnt Ends Sandwich (Only)",
+        "description": "",
+        "label_color": "9da2a6",
+        "visibility": "PRIVATE",
+        "available_online": false,
+        "available_for_pickup": false,
+        "available_electronically": false,
+        "ordinal": 0,
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "C5KUGOVFYCMWYHLNAMVV5WSE",
+            "updated_at": "2020-06-10T15:42:21.648Z",
+            "version": 1591803741648,
+            "is_deleted": false,
+            "catalog_v1_ids": [
+              {
+                "catalog_v1_id": "D6DF242B-6EFB-467F-85FE-05B47BE863F1",
+                "location_id": "9GR4PZQ3CP55D"
+              }
+            ],
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "UR7LDSRTE6ELN4GFEWBUZKHU",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1300,
+                "currency": "USD"
+              },
+              "location_overrides": [
+                {
+                  "location_id": "9GR4PZQ3CP55D",
+                  "track_inventory": false
+                }
+              ]
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": false,
+        "ecom_available": true,
+        "ecom_visibility": "VISIBLE",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "HYP3QOT66ARI4ODTJLJOSVGZ",
+      "updated_at": "2020-11-07T18:08:29.082Z",
+      "version": 1604772509082,
+      "is_deleted": false,
+      "catalog_v1_ids": [
+        {
+          "catalog_v1_id": "5C5DBC94-2351-48FE-A242-0B7FC55523B0",
+          "location_id": "9GR4PZQ3CP55D"
+        }
+      ],
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Burnt Ends Sandwich w/sides",
+        "description": "",
+        "label_color": "9da2a6",
+        "visibility": "PRIVATE",
+        "available_online": false,
+        "available_for_pickup": false,
+        "available_electronically": false,
+        "ordinal": 0,
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "7I4QZQELGGLPMYTKEQEXIYSV",
+            "updated_at": "2020-06-10T15:42:05.924Z",
+            "version": 1591803725924,
+            "is_deleted": false,
+            "catalog_v1_ids": [
+              {
+                "catalog_v1_id": "DBC15101-CB4D-4C83-8DCC-D65C8D05E195",
+                "location_id": "9GR4PZQ3CP55D"
+              }
+            ],
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "HYP3QOT66ARI4ODTJLJOSVGZ",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1600,
+                "currency": "USD"
+              },
+              "location_overrides": [
+                {
+                  "location_id": "9GR4PZQ3CP55D",
+                  "track_inventory": false
+                }
+              ]
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": false,
+        "ecom_available": true,
+        "ecom_visibility": "VISIBLE",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "KY6XURWTVXMOLO2HRM4T5ZMO",
+      "updated_at": "2020-11-07T18:10:44.56Z",
+      "version": 1604772644560,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Burnt Ends Tacos (1)",
+        "label_color": "e5457a",
+        "visibility": "PRIVATE",
+        "category_id": "BF3LMQWCJTIKONARMDYL3Q75",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "Y6DXTPOYCETJSWXUWHPMAAIE",
+            "updated_at": "2020-09-22T01:48:17.895Z",
+            "version": 1600739297895,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "KY6XURWTVXMOLO2HRM4T5ZMO",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 350,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": true,
+        "ecom_visibility": "VISIBLE",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "3RXMFPU3PJKVCX6IGCNBZNPD",
+      "updated_at": "2020-11-19T20:32:19.822Z",
+      "version": 1605817939822,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Burnt Ends Tacos (3)",
+        "label_color": "e5457a",
+        "visibility": "PRIVATE",
+        "category_id": "BF3LMQWCJTIKONARMDYL3Q75",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "E65YKN2J5LKPD7HJTZTIBTLJ",
+            "updated_at": "2020-11-19T20:32:19.822Z",
+            "version": 1605817939822,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "3RXMFPU3PJKVCX6IGCNBZNPD",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1000,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": true,
+        "ecom_visibility": "VISIBLE",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "WH3UBGAKJ7PEZOTF6HZYHWWK",
+      "updated_at": "2020-11-19T20:32:06.873Z",
+      "version": 1605817926873,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Burnt Ends Tacos (meal)",
+        "label_color": "e5457a",
+        "visibility": "PRIVATE",
+        "category_id": "BF3LMQWCJTIKONARMDYL3Q75",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "7ZQTBTVUSVBL5NCFXIAWWOT3",
+            "updated_at": "2020-11-19T20:32:06.873Z",
+            "version": 1605817926873,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "WH3UBGAKJ7PEZOTF6HZYHWWK",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1400,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": true,
+        "ecom_visibility": "VISIBLE",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "FEFK36J2JOZOLKA4PHLNKL4D",
+      "updated_at": "2020-10-06T23:05:26.944Z",
+      "version": 1602025526944,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "CHICKEN Tacos (TT - 1)",
+        "description": "",
+        "label_color": "4ab200",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "A4QIT2NCUKVOJCWIXJCI4CB4",
+            "updated_at": "2020-09-15T18:23:13.822Z",
+            "version": 1600194193822,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "FEFK36J2JOZOLKA4PHLNKL4D",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 300,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": true,
+        "ecom_visibility": "VISIBLE",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "XSWXNYS3J5YDYYGGIFKXISQG",
+      "updated_at": "2020-10-06T23:05:26.944Z",
+      "version": 1602025526944,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "CHICKEN Tacos (TT - 3 meal)",
+        "description": "",
+        "label_color": "4ab200",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "K5E33TB5HSDL3WTJQO24XTKM",
+            "updated_at": "2020-09-15T18:23:44.472Z",
+            "version": 1600194224472,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "XSWXNYS3J5YDYYGGIFKXISQG",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1200,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": true,
+        "ecom_visibility": "VISIBLE",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "OVAG6LR4ZUOP6LJC33PPAYY6",
+      "updated_at": "2020-10-06T23:05:26.944Z",
+      "version": 1602025526944,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "CHICKEN Tacos (TT - 3)",
+        "description": "",
+        "label_color": "4ab200",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "ABRO6VJS7DD6EWCWJQTOUMY2",
+            "updated_at": "2020-09-15T18:23:28.836Z",
+            "version": 1600194208836,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "OVAG6LR4ZUOP6LJC33PPAYY6",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 800,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": true,
+        "ecom_visibility": "VISIBLE",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "GMG6TBQIFTPOOGPXDRJKPMSA",
+      "updated_at": "2020-10-06T23:05:26.944Z",
+      "version": 1602025526944,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "CHICKEN Tacos (TT - w/queso)",
+        "description": "",
+        "label_color": "4ab200",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "ICCEOV2QEYHYNIB4SKFVTGNN",
+            "updated_at": "2020-10-06T19:59:10.715Z",
+            "version": 1602014350715,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "GMG6TBQIFTPOOGPXDRJKPMSA",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1000,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": false,
+        "ecom_visibility": "UNINDEXED",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "HPWKULDHTWBIYA6L4KYMD77E",
+      "updated_at": "2020-09-22T02:06:16.92Z",
+      "version": 1600740376920,
+      "is_deleted": false,
+      "catalog_v1_ids": [
+        {
+          "catalog_v1_id": "F580BF34-E582-4A4E-9893-16DF96C5B969",
+          "location_id": "9GR4PZQ3CP55D"
+        }
+      ],
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Catering - Stonehenge 3/9/20",
+        "description": "Custom Event for 3/9/2020\n\nPulled Pork\nMac n Cheese\nTropical Pit Beans",
+        "visibility": "PRIVATE",
+        "available_online": false,
+        "available_for_pickup": false,
+        "available_electronically": false,
+        "category_id": "KZ6WYWCRFKZPTO5MC7LPC6VQ",
+        "ordinal": 0,
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "C6BB2RDZ3YCMKYLWZPWFPU6B",
+            "updated_at": "2020-09-22T01:48:02.427Z",
+            "version": 1600739282427,
+            "is_deleted": false,
+            "catalog_v1_ids": [
+              {
+                "catalog_v1_id": "91029240-8F38-4B27-BBC5-31AD56A375BE",
+                "location_id": "9GR4PZQ3CP55D"
+              }
+            ],
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "HPWKULDHTWBIYA6L4KYMD77E",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 28500,
+                "currency": "USD"
+              },
+              "location_overrides": [
+                {
+                  "location_id": "9GR4PZQ3CP55D",
+                  "track_inventory": false
+                }
+              ],
+              "measurement_unit_id": "2LXXLWBHDII5ARV5DXXJBQUY"
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": false,
+        "ecom_available": true,
+        "ecom_visibility": "VISIBLE",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "JPHR2TQ2ZGQTUOWKYDZOCEUR",
+      "updated_at": "2020-11-07T18:22:53.889Z",
+      "version": 1604773373889,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Cheeseburger ($7)",
+        "label_color": "9da2a6",
+        "visibility": "PRIVATE",
+        "category_id": "VSNBI7GNMVZIHMWASUNOBTZU",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "5UOMOEH7IBJLDVATMYZSK4AZ",
+            "updated_at": "2020-11-04T19:42:35.346Z",
+            "version": 1604518955346,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "JPHR2TQ2ZGQTUOWKYDZOCEUR",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 700,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": false,
+        "ecom_visibility": "UNINDEXED",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "PULU7MXZTPY2EC5YWQTBDTPK",
+      "updated_at": "2020-11-19T22:18:47.687Z",
+      "version": 1605824327687,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Chicken (1lb)",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "FA4DEIRDLY5ZWIJPMMEN6XBZ",
+            "updated_at": "2020-11-19T22:18:28.043Z",
+            "version": 1605824308043,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "PULU7MXZTPY2EC5YWQTBDTPK",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "VARIABLE_PRICING"
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": false,
+        "ecom_visibility": "UNINDEXED",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "SDH2JCNK3VM4MOBIVMORODUQ",
+      "updated_at": "2020-11-19T22:18:48.248Z",
+      "version": 1605824328248,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Chicken (2lb)",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "ZW3ZH5K2VUYII7L4AKGWO77H",
+            "updated_at": "2020-11-19T22:18:28.043Z",
+            "version": 1605824308043,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "SDH2JCNK3VM4MOBIVMORODUQ",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "VARIABLE_PRICING"
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": false,
+        "ecom_visibility": "UNINDEXED",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "RZONHTPGOU3QLOATCTQUBATA",
+      "updated_at": "2020-10-06T19:57:32.854Z",
+      "version": 1602014252854,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Chicken Breast (+1 side)",
+        "description": "",
+        "label_color": "13b1bf",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "A3POO34KE3UMDM7ADJAFITMU",
+            "updated_at": "2020-10-06T19:57:32.854Z",
+            "version": 1602014252854,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "RZONHTPGOU3QLOATCTQUBATA",
+              "name": "Regular",
+              "sku": "",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1000,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": true,
+        "ecom_visibility": "VISIBLE",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "FJHIAOWNPYHE476S42I4J3NZ",
+      "updated_at": "2020-09-22T02:01:02.136Z",
+      "version": 1600740062136,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Chicken Breast (2lb - $30)",
+        "description": "",
+        "label_color": "0b8000",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "LHCY4PZG5KU4532EW6N2Q2GC",
+            "updated_at": "2020-09-09T02:42:53.579Z",
+            "version": 1599619373579,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "FJHIAOWNPYHE476S42I4J3NZ",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 3000,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": true,
+        "ecom_visibility": "VISIBLE",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "HQNKAHS65BWBZAUMHAOQGPAN",
+      "updated_at": "2020-10-06T19:57:25.042Z",
+      "version": 1602014245042,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Chicken Breast (meal)",
+        "description": "",
+        "label_color": "13b1bf",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "W4MFRKTJZYWCSB6FGCW3C37W",
+            "updated_at": "2020-10-06T19:57:25.042Z",
+            "version": 1602014245042,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "HQNKAHS65BWBZAUMHAOQGPAN",
+              "name": "Regular",
+              "sku": "",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1200,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": true,
+        "ecom_visibility": "VISIBLE",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "ORA4DT6QY4XQU5GHEN6X5DJH",
+      "updated_at": "2020-11-07T15:44:58.268Z",
+      "version": 1604763898268,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Chicken Nachos ($10)",
+        "label_color": "4ab200",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "UFT5URV4Y45QAQVOMZ5AUADK",
+            "updated_at": "2020-09-29T19:37:56.322Z",
+            "version": 1601408276322,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "ORA4DT6QY4XQU5GHEN6X5DJH",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1000,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": false,
+        "ecom_visibility": "UNINDEXED",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "KTR7MUHFL6PGQ7HRWFFMJFK7",
+      "updated_at": "2020-11-07T15:45:08.628Z",
+      "version": 1604763908628,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Chicken Nachos (meal - $12)",
+        "label_color": "4ab200",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "EMG6YPFEO24KHAZZLYVXW2GK",
+            "updated_at": "2020-09-29T19:38:56.736Z",
+            "version": 1601408336736,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "KTR7MUHFL6PGQ7HRWFFMJFK7",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1400,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": false,
+        "ecom_visibility": "UNINDEXED",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "XAFCF3YTSJNJN3OSTYJR2BTT",
+      "updated_at": "2020-11-19T20:31:50.788Z",
+      "version": 1605817910788,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Chicken Nachos (meal)",
+        "label_color": "e5bf00",
+        "visibility": "PRIVATE",
+        "category_id": "ETTCC4AYOD3QYMONLXU6VY34",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "CTK7E2ZYA3DB2X6FMEHT3OT3",
+            "updated_at": "2020-11-19T20:31:50.788Z",
+            "version": 1605817910788,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "XAFCF3YTSJNJN3OSTYJR2BTT",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1400,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": true,
+        "ecom_visibility": "VISIBLE",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "OLVQKGUAGRY4JVZ44PIWDVSD",
+      "updated_at": "2020-11-19T20:31:45.377Z",
+      "version": 1605817905377,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Chicken Nachos (only)",
+        "label_color": "e5bf00",
+        "visibility": "PRIVATE",
+        "category_id": "ETTCC4AYOD3QYMONLXU6VY34",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "DKP4YWU7MSCB7NNS7JJ6GTIV",
+            "updated_at": "2020-11-19T20:31:45.377Z",
+            "version": 1605817905377,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "OLVQKGUAGRY4JVZ44PIWDVSD",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1000,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": true,
+        "ecom_visibility": "VISIBLE",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "SPWYRBDMLTUAZV6EDTBKQMWE",
+      "updated_at": "2020-09-22T01:59:16.041Z",
+      "version": 1600739956041,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Chicken Taco (1)",
+        "description": "",
+        "label_color": "9da2a6",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "BWYI7ASOQKJVSKFMIMXQXERX",
+            "updated_at": "2020-09-01T19:32:25.821Z",
+            "version": 1598988745821,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "SPWYRBDMLTUAZV6EDTBKQMWE",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 300,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": true,
+        "ecom_visibility": "VISIBLE",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "5DS6Y3UEP63ZYCT6KRMWW3ZQ",
+      "updated_at": "2020-09-22T02:03:32.279Z",
+      "version": 1600740212279,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Chicken Taco (meal)",
+        "description": "",
+        "label_color": "9da2a6",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "EXXNQZG77RB4LDE5Y2W5372G",
+            "updated_at": "2020-09-01T19:46:16.374Z",
+            "version": 1598989576374,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "5DS6Y3UEP63ZYCT6KRMWW3ZQ",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1200,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": true,
+        "ecom_visibility": "VISIBLE",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "YG3DQQFDQOWVWSKEHA3QF7K4",
+      "updated_at": "2020-11-07T18:21:24.231Z",
+      "version": 1604773284231,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Chicken Tacos (1)",
+        "label_color": "e5457a",
+        "visibility": "PRIVATE",
+        "category_id": "BF3LMQWCJTIKONARMDYL3Q75",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "modifier_list_info": [
+          {
+            "modifier_list_id": "DXBSBK433AQ7L3BOINBTSGWI",
+            "visibility": "PUBLIC",
+            "min_selected_modifiers": -1,
+            "max_selected_modifiers": -1,
+            "enabled": true
+          }
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "B7UGCB4B7NXSFLWXOLGYQL4R",
+            "updated_at": "2020-09-09T02:42:53.579Z",
+            "version": 1599619373579,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "YG3DQQFDQOWVWSKEHA3QF7K4",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 350,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": true,
+        "ecom_visibility": "VISIBLE",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "EXOTUF3M3CVVXPAMR7C2BXGV",
+      "updated_at": "2020-11-07T18:21:24.231Z",
+      "version": 1604773284231,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Chicken Tacos (3)",
+        "label_color": "e5457a",
+        "visibility": "PRIVATE",
+        "category_id": "BF3LMQWCJTIKONARMDYL3Q75",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "modifier_list_info": [
+          {
+            "modifier_list_id": "DXBSBK433AQ7L3BOINBTSGWI",
+            "visibility": "PUBLIC",
+            "min_selected_modifiers": -1,
+            "max_selected_modifiers": -1,
+            "enabled": true
+          }
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "WULUPRAD6OVODFADEHDUKXDN",
+            "updated_at": "2020-09-09T02:42:53.579Z",
+            "version": 1599619373579,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "EXOTUF3M3CVVXPAMR7C2BXGV",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1000,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": true,
+        "ecom_visibility": "VISIBLE",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "GXK62A5MY5WE4RFVUDAOQPAM",
+      "updated_at": "2020-11-07T18:21:24.231Z",
+      "version": 1604773284231,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Chicken Tacos (meal)",
+        "label_color": "e5457a",
+        "visibility": "PRIVATE",
+        "category_id": "BF3LMQWCJTIKONARMDYL3Q75",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "modifier_list_info": [
+          {
+            "modifier_list_id": "DXBSBK433AQ7L3BOINBTSGWI",
+            "visibility": "PUBLIC",
+            "min_selected_modifiers": -1,
+            "max_selected_modifiers": -1,
+            "enabled": true
+          }
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "ZIIFPQ3N54LTEPYCZ7GB5BVZ",
+            "updated_at": "2020-09-09T02:42:53.579Z",
+            "version": 1599619373579,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "GXK62A5MY5WE4RFVUDAOQPAM",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1200,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": true,
+        "ecom_visibility": "VISIBLE",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "6VDM2OE4KDUMH7CFEEODS4XW",
+      "updated_at": "2020-09-22T01:57:02.733Z",
+      "version": 1600739822733,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Chicken taco (3)",
+        "description": "",
+        "label_color": "9da2a6",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "VUEN7VG2TGTT3I7CSKKTJUMB",
+            "updated_at": "2020-09-01T19:32:47.912Z",
+            "version": 1598988767912,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "6VDM2OE4KDUMH7CFEEODS4XW",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 800,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": true,
+        "ecom_visibility": "VISIBLE",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "SJVKUYJE2NTQUD7G7PGGGTMZ",
+      "updated_at": "2020-11-19T22:18:45.99Z",
+      "version": 1605824325990,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Chopped Brisket (1lb)",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "R73KJ4VBIDIUMLQQHKQZYRMJ",
+            "updated_at": "2020-11-19T22:18:28.043Z",
+            "version": 1605824308043,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "SJVKUYJE2NTQUD7G7PGGGTMZ",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "VARIABLE_PRICING"
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": false,
+        "ecom_visibility": "UNINDEXED",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "G67MHD7SY5635EKRF7WNZF3J",
+      "updated_at": "2020-11-07T18:36:01.889Z",
+      "version": 1604774161889,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Chopped Brisket (2lb - $20)",
+        "label_color": "9da2a6",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "ENETYUC2VHQQNQMIVUVG774V",
+            "updated_at": "2020-11-07T15:46:00.025Z",
+            "version": 1604763960025,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "G67MHD7SY5635EKRF7WNZF3J",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 2000,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": true,
+        "ecom_visibility": "VISIBLE",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "CS2HVTPO5IWN6AGDEPVVZYOH",
+      "updated_at": "2020-11-19T22:18:46.094Z",
+      "version": 1605824326094,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Chopped Brisket (2lb)",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "X6JZADGKZPGMG2WEKKBCI4CO",
+            "updated_at": "2020-11-19T22:18:28.043Z",
+            "version": 1605824308043,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "CS2HVTPO5IWN6AGDEPVVZYOH",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "VARIABLE_PRICING"
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": false,
+        "ecom_visibility": "UNINDEXED",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "T2EGNKCNIIP2AKSAP3C47SEM",
+      "updated_at": "2020-11-07T15:46:41.577Z",
+      "version": 1604764001577,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Chopped Brisket (lb - $12)",
+        "label_color": "9da2a6",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "52U6IBI2YZVABAR77XGEBNGO",
+            "updated_at": "2020-11-07T15:45:44.124Z",
+            "version": 1604763944124,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "T2EGNKCNIIP2AKSAP3C47SEM",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1200,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": false,
+        "ecom_visibility": "UNINDEXED",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "5V24O6CXL3FHEBHXR37677VA",
+      "updated_at": "2020-11-25T20:34:40.84Z",
+      "version": 1606336480840,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Chopped Brisket Pound",
+        "label_color": "9da2a6",
+        "visibility": "PRIVATE",
+        "category_id": "UBSMQ2GKNPVFNHA7PPDKEJJ6",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "HPZB4W4366U4XSYUA5DYHLJD",
+            "updated_at": "2020-11-25T20:34:40.84Z",
+            "version": 1606336480840,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "5V24O6CXL3FHEBHXR37677VA",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1300,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": false,
+        "ecom_visibility": "UNINDEXED",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "77BYNZTMYLEIFEMCTML34BWO",
+      "updated_at": "2020-11-07T18:07:27.383Z",
+      "version": 1604772447383,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Coleslaw",
+        "label_color": "a82ee5",
+        "visibility": "PRIVATE",
+        "category_id": "OJY5L6U653Y7ZGJPZI3CKYHN",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "W3OAHVLRRPFZF4VNQNSDL5DH",
+            "updated_at": "2020-09-22T01:48:04.691Z",
+            "version": 1600739284691,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "77BYNZTMYLEIFEMCTML34BWO",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 200,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": true,
+        "ecom_visibility": "VISIBLE",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "LZ4VAIH74LWEA7MZ4NRGPFJR",
+      "updated_at": "2020-11-07T18:07:27.383Z",
+      "version": 1604772447383,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "Coleslaw (Pint)",
+        "label_color": "a82ee5",
+        "visibility": "PRIVATE",
+        "category_id": "OJY5L6U653Y7ZGJPZI3CKYHN",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "HEYAOUARZ5ZZ3YVFKUKEY236",
+            "updated_at": "2020-08-04T16:38:21.31Z",
+            "version": 1596559101310,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "LZ4VAIH74LWEA7MZ4NRGPFJR",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 800,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": true,
+        "ecom_visibility": "VISIBLE",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "U6ZYD22R6JYSPJVJTZE6K5SN",
+      "updated_at": "2020-11-04T19:38:26.997Z",
+      "version": 1604518706997,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "add Bacon (+$1)",
+        "label_color": "9da2a6",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "TKZ3N53YRF5CJRK2GW65GXOJ",
+            "updated_at": "2020-11-04T19:38:07.656Z",
+            "version": 1604518687656,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "U6ZYD22R6JYSPJVJTZE6K5SN",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 100,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": false,
+        "ecom_visibility": "UNINDEXED",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "VZIZO6YONEEUTZKM3AOKKQRN",
+      "updated_at": "2020-11-04T19:38:26.91Z",
+      "version": 1604518706910,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "add Brisket (+$2)",
+        "label_color": "9da2a6",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "ODOXG4AYTITDZRBFMP6KBXY4",
+            "updated_at": "2020-11-04T19:38:07.656Z",
+            "version": 1604518687656,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "VZIZO6YONEEUTZKM3AOKKQRN",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 200,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": false,
+        "ecom_visibility": "UNINDEXED",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "7FJRNHBDGOQXP33ODRFE7K7U",
+      "updated_at": "2020-11-04T19:38:26.833Z",
+      "version": 1604518706833,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "add Pulled Pork (+$2)",
+        "label_color": "9da2a6",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "ZSIV5HX4U44O4AUNV5WHJKN2",
+            "updated_at": "2020-11-04T19:38:07.656Z",
+            "version": 1604518687656,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "7FJRNHBDGOQXP33ODRFE7K7U",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 200,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": false,
+        "ecom_visibility": "UNINDEXED",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "LICV6FIYVT3JAQRQZCVJWUVU",
+      "updated_at": "2020-11-25T21:00:30.204Z",
+      "version": 1606338030204,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "chix 1lb",
+        "label_color": "9da2a6",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "ZMTVFEI46IWHCEPO2U63XR7M",
+            "updated_at": "2020-11-25T20:51:13.758Z",
+            "version": 1606337473758,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "LICV6FIYVT3JAQRQZCVJWUVU",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1300,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": false,
+        "ecom_visibility": "UNINDEXED",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "VLKVF7AEAJ6ZMLQKEJ7UJ4JU",
+      "updated_at": "2020-11-25T21:00:30.08Z",
+      "version": 1606338030080,
+      "is_deleted": false,
+      "present_at_all_locations": false,
+      "present_at_location_ids": [
+        "9GR4PZQ3CP55D"
+      ],
+      "item_data": {
+        "name": "chix 2lb",
+        "label_color": "9da2a6",
+        "visibility": "PRIVATE",
+        "tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "UEPRKMTJOEJVAF5LHSZXAQH4",
+            "updated_at": "2020-11-25T20:51:13.758Z",
+            "version": 1606337473758,
+            "is_deleted": false,
+            "present_at_all_locations": false,
+            "present_at_location_ids": [
+              "9GR4PZQ3CP55D"
+            ],
+            "item_variation_data": {
+              "item_id": "VLKVF7AEAJ6ZMLQKEJ7UJ4JU",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 2000,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": true,
+        "ecom_available": false,
+        "ecom_visibility": "UNINDEXED",
+        "legacy_tax_ids": [
+          "WRUV3IZAANZWEFA4D7L7UY37"
+        ]
+      }
+    }
+  ],
+  "cursor": "MTI1",
+  "matched_variation_ids": [
+    "S4QZVYR52ZJZUUPLCSYZNZNZ",
+    "ILRC4QELWCU7D54BYW5YJBHG",
+    "ZBQG4OMBDI5C6G7TA4655GL5",
+    "QHNTZEWQVDWNBVARUNYCLHI5",
+    "K5VM4ZEN5UMH4F275XEGFBDF",
+    "TUE6VAF56XU57GSGPNHJTMQ3",
+    "FMM4UBTABRLV4YBCPDAT6VG5",
+    "JFC2KL7U35DFVMCTHQIJ7INP",
+    "4EKI2C2MICKTUCVQQYD34ZZU",
+    "LIQJSXEH74JDNZ4MWXALLB6H",
+    "V2YUZRTTSJWA4EYXWGIOF5JR",
+    "36SFOKQOTRE6UIBPFQAK5Y7U",
+    "TKZ3N53YRF5CJRK2GW65GXOJ",
+    "ODOXG4AYTITDZRBFMP6KBXY4",
+    "ZSIV5HX4U44O4AUNV5WHJKN2",
+    "KEVMLC5WTDM5LGTLQAKQJ4WZ",
+    "4YFY4VYNWQHMNQS6NR3C2YFZ",
+    "JXZLPRNVDZEGCTC4HFYNJ7F6",
+    "OVUHJZEFZOO74JQXOFOFXE5L",
+    "UDU3Y2SNQVEH6J2VRRCWNGRD",
+    "3DJMRRPQM7ZOLSN6RPZZNFT2",
+    "O6JY25DS3U63UITUD444JACH",
+    "HXEBURQZIEPOFKQTJCN3I2ZZ",
+    "QKFOAXE7BPIQDKDQUPXRUNSS",
+    "N6KSRYN6JWRTPL6NK7W2KSVY",
+    "LTFGW7GP3SKEXHGJ5U6GBQNU",
+    "TVW5HM2GVQAK5ZJEIGQI4HLZ",
+    "RBCB6ZZBO2XHCIQFN52BBSYL",
+    "IQ3IAXGAW6HEJY56YYDXZTD4",
+    "E45VS2KB7VDQLS5WB7QI3I4X",
+    "VJST7Q2CJAWZJ2JGFJROJFNE",
+    "UJMDU43D64GKUVOEKW2FYC6K",
+    "WAXUW7B3HWAQLPHOJ7SP2NU3",
+    "6XRZLQLF3EZSO6NBHPQSGBE7",
+    "67I6QOYDBIKTXMWFAGPVVG3J",
+    "ZUOQVFWMDNKCKPT4XREXX52Z",
+    "M3QX6FEBUPIAT4CDU73PZIVS",
+    "4MH76K2OVUB5RZVDXH7VCS5Y",
+    "H36BJXMGKULJNT33PPAYXJB7",
+    "CCRLJYXGA5MI43KY5GIB4SWI",
+    "LG3IKQLUILWSARMJTYVAIMRI",
+    "IPB3X5MQZIGRLFZJ4PF3CL23",
+    "KOSIILFECABYENVYRKUKDGWU",
+    "DY6BARK7LEWKHLEHF7ACQDGC",
+    "3JMN2KT7R4LCPPF6K7EQRDKI",
+    "ZLI4UREDHJN7QG3REHDZGFAD",
+    "RNUMC32FWQS4HMDQ5Z2JPYAE",
+    "PYFLHZSLJR3F57H7GJO33TUY",
+    "CC7KWCGTFBE4IIQGCN4QOJBH",
+    "GBHFCJ3SVE75MNW3B3JYQH47",
+    "W4MS6MYS6OHM724GWR5NGNCV",
+    "TOXAIRKDCFKVC36M2VLWOMH2",
+    "CI6YRANCAUTBLYN323TFUJI2",
+    "KKIB2HNPHHCFZK654YOQ5U6H",
+    "7KLS3IB3P24NVY2QZY3CVNSY",
+    "RCM47IOQ227MWSBZYYZ6BSP5",
+    "2MQV5FDWAJKIIGENL35DLM2B",
+    "MWRE35S6IUJ4DFZDOFCPREKZ",
+    "KWXR3RQIQ4KPO3ZUNMV65UTB",
+    "M4RFTGJJTL2VZGGJ43J434QC",
+    "VTYEECSBQGU2HO537ZEUYWMN",
+    "LGCHGJK2VZEE5V4U63MFKVEY",
+    "ETLJU6UHPYMFZTFXNNHHT63M",
+    "KXCEIOUNNF53OO2EZYNHFIRZ",
+    "ZE3YZT3ZUOWSHM27UOINBLD2",
+    "P72DOHR6VMIPV7LTI5RU2EDT",
+    "5EKMJNUAJZMRJ55NPUP6XFGJ",
+    "W7BZPKBTX4R3SSMO3URI57PU",
+    "H3ZVMMCJDIH2DB3YI4QV42IA",
+    "KRBBK4SAFED2EQRJAIYTR4DO",
+    "RK2BCI2NAJYYPBCXUUMQ45DO",
+    "JZJ7MVICGI2ZTEDSVZ42IGSG",
+    "TW7QVZDIVZWWWS7O7HYKD2HQ",
+    "ACQHDBDNK35FGTGKSL2R3Z3B",
+    "SXOU3KKVNRPA3KQHOW2ZC5UW",
+    "PMPTMX4OL4GYLWQCID2EJXAY",
+    "FAE5AZZCVN2IJZQBPLQFEBBZ",
+    "VF3UGLGRJ2XOXTND7BNZVTYW",
+    "6FIHZCRM4A5XROJH2XQAXFK3",
+    "ZDH7Y25R3UGVSNZJJTRBMZJI",
+    "5BE6ID2WFMUVVONTQMBGYSY6",
+    "6HALSDHKBLAISPTNDL2ZDHE7",
+    "EHTTJ2W3IGKTLOHHFMOUXGP6",
+    "6TEOQSXC5HWJ3G5ZMCAVIK6Z",
+    "HEC3EDPETBHST6S3QSUKXRER",
+    "KV5DWMRY2DM2GNEUR6YN4TNU",
+    "N7MAV7LDYXT4WAIRFS3POAYZ",
+    "I5AAP7EKKQZTGBAGHVXZVGFH",
+    "K5ZCFVLTGH53AMNONUBDIJS2",
+    "BOASZIC5M6G2SCASLSMHMAG7",
+    "LILZMNRFDZQDNYE2GLNWNVS4",
+    "C5KUGOVFYCMWYHLNAMVV5WSE",
+    "7I4QZQELGGLPMYTKEQEXIYSV",
+    "Y6DXTPOYCETJSWXUWHPMAAIE",
+    "E65YKN2J5LKPD7HJTZTIBTLJ",
+    "7ZQTBTVUSVBL5NCFXIAWWOT3",
+    "C6BB2RDZ3YCMKYLWZPWFPU6B",
+    "5UOMOEH7IBJLDVATMYZSK4AZ",
+    "FA4DEIRDLY5ZWIJPMMEN6XBZ",
+    "ZW3ZH5K2VUYII7L4AKGWO77H",
+    "A3POO34KE3UMDM7ADJAFITMU",
+    "LHCY4PZG5KU4532EW6N2Q2GC",
+    "W4MFRKTJZYWCSB6FGCW3C37W",
+    "UFT5URV4Y45QAQVOMZ5AUADK",
+    "EMG6YPFEO24KHAZZLYVXW2GK",
+    "CTK7E2ZYA3DB2X6FMEHT3OT3",
+    "DKP4YWU7MSCB7NNS7JJ6GTIV",
+    "BWYI7ASOQKJVSKFMIMXQXERX",
+    "VUEN7VG2TGTT3I7CSKKTJUMB",
+    "EXXNQZG77RB4LDE5Y2W5372G",
+    "B7UGCB4B7NXSFLWXOLGYQL4R",
+    "WULUPRAD6OVODFADEHDUKXDN",
+    "ZIIFPQ3N54LTEPYCZ7GB5BVZ",
+    "A4QIT2NCUKVOJCWIXJCI4CB4",
+    "K5E33TB5HSDL3WTJQO24XTKM",
+    "ABRO6VJS7DD6EWCWJQTOUMY2",
+    "ICCEOV2QEYHYNIB4SKFVTGNN",
+    "ZMTVFEI46IWHCEPO2U63XR7M",
+    "UEPRKMTJOEJVAF5LHSZXAQH4",
+    "R73KJ4VBIDIUMLQQHKQZYRMJ",
+    "ENETYUC2VHQQNQMIVUVG774V",
+    "X6JZADGKZPGMG2WEKKBCI4CO",
+    "52U6IBI2YZVABAR77XGEBNGO",
+    "HPZB4W4366U4XSYUA5DYHLJD",
+    "W3OAHVLRRPFZF4VNQNSDL5DH",
+    "HEYAOUARZ5ZZ3YVFKUKEY236"
+  ]
+}
