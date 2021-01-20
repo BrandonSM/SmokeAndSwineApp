@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "892607133928",
+    "project_id": "smokeandswine-app",
+    "storage_bucket": "smokeandswine-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892607133928:android:4fad5835a609c63439f15d",
+        "android_client_info": {
+          "package_name": "com.smokeandswineapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892607133928-m5rfj1j468rsdrbdo0tnaidr5k07sd26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW1hztyj-5H33Mwr9PYXJ2X5UnzGIX4Fs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892607133928-m5rfj1j468rsdrbdo0tnaidr5k07sd26.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
