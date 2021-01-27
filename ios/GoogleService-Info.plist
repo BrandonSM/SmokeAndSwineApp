@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>892607133928-fljg316v6p2hv1mrtaam532k203ca739.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.892607133928-fljg316v6p2hv1mrtaam532k203ca739</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCV2dMeg2O0HaBjodqiEnnl8GxZ0gO1rg0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>892607133928</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.SmokeAndSwineApp</string>
+	<key>PROJECT_ID</key>
+	<string>smokeandswine-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>smokeandswine-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:892607133928:ios:b3a259180457c5bc39f15d</string>
+</dict>
+</plist>

@@ -19,6 +19,7 @@
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
 		9F3A9C4D62EC2D46ACAA1982 /* libPods-SmokeAndSwineApp-SmokeAndSwineAppTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = CB4FB29147DFF8C722D81446 /* libPods-SmokeAndSwineApp-SmokeAndSwineAppTests.a */; };
 		B6C1CD120254D284C3AA75B5 /* libPods-SmokeAndSwineApp-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = EE10643E7DEEA24537F434A5 /* libPods-SmokeAndSwineApp-tvOSTests.a */; };
+		CA86FB5525BE4B1400331AF7 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = CA86FB5425BE4B1400331AF7 /* GoogleService-Info.plist */; };
 		CF6495818B33418B559DFADE /* libPods-SmokeAndSwineApp-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F29209FA83FDBAA4A3E77185 /* libPods-SmokeAndSwineApp-tvOS.a */; };
 /* End PBXBuildFile section */
 
@@ -60,6 +61,7 @@
 		9C6E7F62F60B5E0C1217C22A /* Pods-SmokeAndSwineApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SmokeAndSwineApp.debug.xcconfig"; path = "Target Support Files/Pods-SmokeAndSwineApp/Pods-SmokeAndSwineApp.debug.xcconfig"; sourceTree = "<group>"; };
 		A34B9B875B1EBD7466F62FCC /* Pods-SmokeAndSwineApp-SmokeAndSwineAppTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SmokeAndSwineApp-SmokeAndSwineAppTests.release.xcconfig"; path = "Target Support Files/Pods-SmokeAndSwineApp-SmokeAndSwineAppTests/Pods-SmokeAndSwineApp-SmokeAndSwineAppTests.release.xcconfig"; sourceTree = "<group>"; };
 		B1D4A59A83E8FCE31A4951A6 /* Pods-SmokeAndSwineApp-SmokeAndSwineAppTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SmokeAndSwineApp-SmokeAndSwineAppTests.debug.xcconfig"; path = "Target Support Files/Pods-SmokeAndSwineApp-SmokeAndSwineAppTests/Pods-SmokeAndSwineApp-SmokeAndSwineAppTests.debug.xcconfig"; sourceTree = "<group>"; };
+		CA86FB5425BE4B1400331AF7 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		CB4FB29147DFF8C722D81446 /* libPods-SmokeAndSwineApp-SmokeAndSwineAppTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-SmokeAndSwineApp-SmokeAndSwineAppTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E207CC910652ADC03DEA6AC3 /* libPods-SmokeAndSwineApp.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-SmokeAndSwineApp.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
@@ -148,7 +150,6 @@
 				08AAF6D557C4BB0A1BAD744B /* Pods-SmokeAndSwineApp-tvOSTests.debug.xcconfig */,
 				07CA78BAFA538C4520EFB4B2 /* Pods-SmokeAndSwineApp-tvOSTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -175,6 +176,7 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
+				CA86FB5425BE4B1400331AF7 /* GoogleService-Info.plist */,
 				13B07FAE1A68108700A75B9A /* SmokeAndSwineApp */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
 				00E356EF1AD99517003FC87E /* SmokeAndSwineAppTests */,
@@ -343,6 +345,7 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				CA86FB5525BE4B1400331AF7 /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -470,6 +473,7 @@
 				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/SimpleLineIcons.ttf",
 				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Zocial.ttf",
 				"${PODS_CONFIGURATION_BUILD_DIR}/React-Core/AccessibilityResources.bundle",
+				"${PODS_CONFIGURATION_BUILD_DIR}/gRPC-C++/gRPCCertificates-Cpp.bundle",
 			);
 			name = "[CP] Copy Pods Resources";
 			outputPaths = (
@@ -490,6 +494,7 @@
 				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/SimpleLineIcons.ttf",
 				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Zocial.ttf",
 				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/AccessibilityResources.bundle",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/gRPCCertificates-Cpp.bundle",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -520,6 +525,7 @@
 				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/SimpleLineIcons.ttf",
 				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Zocial.ttf",
 				"${PODS_CONFIGURATION_BUILD_DIR}/React-Core/AccessibilityResources.bundle",
+				"${PODS_CONFIGURATION_BUILD_DIR}/gRPC-C++/gRPCCertificates-Cpp.bundle",
 			);
 			name = "[CP] Copy Pods Resources";
 			outputPaths = (
@@ -540,6 +546,7 @@
 				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/SimpleLineIcons.ttf",
 				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Zocial.ttf",
 				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/AccessibilityResources.bundle",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/gRPCCertificates-Cpp.bundle",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;

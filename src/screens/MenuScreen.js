@@ -2,7 +2,7 @@ import 'react-native-gesture-handler';
 import React, { useEffect, useState } from 'react';
 import { ActivityIndicator, FlatList, Button, Text, View } from 'react-native';
 
-import {API_KEY } from "@env";
+import { API_KEY } from "@env";
 
 import axios from 'axios';
 
