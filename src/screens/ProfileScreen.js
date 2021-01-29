@@ -1,6 +1,7 @@
 import 'react-native-gesture-handler';
 import React, { useState, useEffect } from 'react';
-import { ActivityIndicator, Button, Text, TextInput, View } from 'react-native';
+import { ActivityIndicator, Image, SafeAreaView, Text, TextInput } from 'react-native';
+import FullWidthButton from './../components/FullWidthButton';
 import PaymentsScreen from './PaymentsScreen';
 
 import {TEST_USER, TEST_PASSWORD, API_KEY} from "@env";
@@ -18,12 +19,10 @@ export default function ProfileScreen({navigation}) {
   const [userInput, setUserInput ] = useState('');
   const [passwordInput, setPasswordInput ] = useState('');
   const [user, setUser] = useState();
-  const [userData, setUserData ] = useState();
+  const [userData, setUserData ] = useState('');
 
   // Get UserInfo from firebase
-  // TODO: search customers via email instead of via sync'ed squareID field in Firestore
   const getUserSquareProfile = (emailQuery) => {
-    console.log("FIRED the getUserSquareProfile with: " + emailQuery);
     firestore()
       .collection('appUsers')
       .where('email', '==', emailQuery)
@@ -36,7 +35,6 @@ export default function ProfileScreen({navigation}) {
               Authorization: 'Bearer ' + API_KEY,
             }
           }).then((data) => {
-            console.log(data.data.customer.given_name);
             setUserData(data.data.customer.given_name);
             setLoadingUser(false);
           })
@@ -46,6 +44,7 @@ export default function ProfileScreen({navigation}) {
 
   // Handle user login
   const userLogin = () => {
+    console.log(user);
     setInitializing(true);
     auth().signInWithEmailAndPassword(userInput, passwordInput)
       .then((userCredential) => {
@@ -95,6 +94,7 @@ export default function ProfileScreen({navigation}) {
   const userLogout = () => {
     auth().signOut()
       .then(() => {
+        setUser();
         setPasswordCheck(true);
         setUserInput('');
         setPasswordInput('');
@@ -108,7 +108,6 @@ export default function ProfileScreen({navigation}) {
   }
 
   useEffect(() => {
-    console.log("User is : " + user);
     const subscriber = auth().onAuthStateChanged(onAuthStateChanged);
     return subscriber; // unsubscribe on unmount
   }, []);
@@ -117,15 +116,18 @@ export default function ProfileScreen({navigation}) {
 
   if (!user) {
     return (
-      <View>
+      <SafeAreaView>
+        <Image 
+          style={{ height: 280, width: 280, flexDirection: 'column', justifyContent: 'center', alignItems: 'center', marginLeft: 60, marginTop: 80, marginBottom: 50 }}
+          source={require('./../assets/images/fire-logo.png')}/>
         <Text>Please Login</Text>
         <TextInput
-          style={{ height: 30, borderColor: 'gray', borderWidth: 1 }}
+          style={{ height: 50, borderColor: 'gray', borderWidth: 1, padding: 10, marginLeft: 10, marginRight: 10, marginBottom: 10 }}
           onChangeText={text => setUserInput(text)}
           value={userInput}
         />
         <TextInput
-          style={{ height: 30, borderColor: 'gray', borderWidth: 1 }}
+          style={{ height: 50, borderColor: 'gray', borderWidth: 1, padding: 10, marginLeft: 10, marginRight: 10, marginBottom: 10 }}
           onChangeText={text => setPasswordInput(text)}
           value={passwordInput}
         />
@@ -133,35 +135,34 @@ export default function ProfileScreen({navigation}) {
           ? null
           : <Text style={{color: 'red'}}>BAD USERNAME/PASSWORD TRY AGAIN</Text>
         }
-        <Button
-          onPress={userLogin}
-          title="Login with Username + Password"
-          color="#0099FF"/>
-        <Button
-          onPress={adminLogin}
-          title="Login As Admin"
-          color="#FF8000"/>
-      </View>
+        <FullWidthButton
+          onPress={userLogin}>
+            <Text>Login with Username + Password</Text>
+        </FullWidthButton>
+        <FullWidthButton
+          onPress={adminLogin}>
+          <Text>Login As Admin</Text>
+        </FullWidthButton>
+      </SafeAreaView>
     );
   }
 
     return (
-      <View style={{ flex: 1, justifyContent: 'center', alignItems: 'flex-start' }}>
+      <SafeAreaView style={{ flex: 1, justifyContent: 'center', alignItems: 'flex-start' }}>
         {loadingUser ? <ActivityIndicator/> : <Text>Welcome back {userData}!</Text>}
-        <Button
-          title="Sign Out"
-          onPress={userLogout}
-          />
-        <Button 
-          title="Past Orders"
-          onPress={() => navigation.navigate('Past Orders')}/>
-        <Button 
-          title="Saved Payment Methods"
-          onPress={() => navigation.navigate('Payments')}/>
-        <Button 
-          title="Rewards Points"
-          onPress={() => navigation.navigate('Rewards')}/>
-      </View>
+        <FullWidthButton onPress={userLogout}>
+            <Text>Logout</Text>
+        </FullWidthButton>
+        <FullWidthButton onPress={() => navigation.navigate('Past Orders')}>
+          <Text>Past Orders</Text>
+        </FullWidthButton>
+        <FullWidthButton onPress={() => navigation.navigate('Payments')}>
+        <Text>Saved Payment Methods</Text>
+        </FullWidthButton>
+        <FullWidthButton onPress={() => navigation.navigate('Rewards')}>
+          <Text>View My Rewards Points</Text>
+        </FullWidthButton>
+      </SafeAreaView>
     );
   }
 
