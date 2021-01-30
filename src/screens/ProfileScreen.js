@@ -20,6 +20,7 @@ export default function ProfileScreen({navigation}) {
   const [passwordInput, setPasswordInput ] = useState('');
   const [user, setUser] = useState();
   const [userData, setUserData ] = useState('');
+  const [userCards, setUserCards ] = useState([]);
 
   // Get UserInfo from firebase
   const getUserSquareProfile = (emailQuery) => {
@@ -36,6 +37,7 @@ export default function ProfileScreen({navigation}) {
             }
           }).then((data) => {
             setUserData(data.data.customer.given_name);
+            setUserCards(data.data.customer.cards);
             setLoadingUser(false);
           })
         });
@@ -156,7 +158,7 @@ export default function ProfileScreen({navigation}) {
         <FullWidthButton onPress={() => navigation.navigate('Past Orders')}>
           <Text>Past Orders</Text>
         </FullWidthButton>
-        <FullWidthButton onPress={() => navigation.navigate('Payments')}>
+        <FullWidthButton onPress={() => navigation.navigate('Payments', {userCards})}>
         <Text>Saved Payment Methods</Text>
         </FullWidthButton>
         <FullWidthButton onPress={() => navigation.navigate('Rewards')}>

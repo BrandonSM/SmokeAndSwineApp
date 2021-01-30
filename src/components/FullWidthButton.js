@@ -16,7 +16,7 @@ const FullButton = styled(Pressable)`
 export default function FullWidthButton({children, ...props}) {
 
     const onPressFunction = () => {
-      console.log('Pressed the Orange button');
+      console.log('Pressed the full width button');
     }
   
       return (
