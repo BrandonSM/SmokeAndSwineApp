@@ -15,12 +15,13 @@ export default function ProfileScreen({navigation}) {
   // Set an initializing state whilst Firebase connects
   const [initializing, setInitializing] = useState(true);
   const [loadingUser, setLoadingUser] = useState(true);
-  const [passwordCheck, setPasswordCheck ] = useState(true);
-  const [userInput, setUserInput ] = useState('');
-  const [passwordInput, setPasswordInput ] = useState('');
+  const [passwordCheck, setPasswordCheck] = useState(true);
+  const [userInput, setUserInput] = useState('');
+  const [passwordInput, setPasswordInput] = useState('');
   const [user, setUser] = useState();
-  const [userData, setUserData ] = useState('');
+  const [userData, setUserData] = useState('');
   const [userCards, setUserCards ] = useState([]);
+  const [squareID, setSquareID] = useState('');
 
   // Get UserInfo from firebase
   const getUserSquareProfile = (emailQuery) => {
@@ -31,6 +32,7 @@ export default function ProfileScreen({navigation}) {
       .then(querySnapshot => {
         querySnapshot.forEach(documentSnapshot => {
           console.log('User ID: ', documentSnapshot.id, documentSnapshot.data().squareID);
+          setSquareID(documentSnapshot.data().squareID);
           axios.get('https://connect.squareup.com/v2/customers/' + documentSnapshot.data().squareID, {
             headers : {
               Authorization: 'Bearer ' + API_KEY,
@@ -155,10 +157,10 @@ export default function ProfileScreen({navigation}) {
         <FullWidthButton onPress={userLogout}>
             <Text>Logout</Text>
         </FullWidthButton>
-        <FullWidthButton onPress={() => navigation.navigate('Past Orders')}>
+        <FullWidthButton onPress={() => navigation.navigate('Past Orders', { squareID })}>
           <Text>Past Orders</Text>
         </FullWidthButton>
-        <FullWidthButton onPress={() => navigation.navigate('Payments', {userCards})}>
+        <FullWidthButton onPress={() => navigation.navigate('Payments', { userCards })}>
         <Text>Saved Payment Methods</Text>
         </FullWidthButton>
         <FullWidthButton onPress={() => navigation.navigate('Rewards')}>
