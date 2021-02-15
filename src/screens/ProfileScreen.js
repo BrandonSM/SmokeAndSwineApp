@@ -116,7 +116,7 @@ export default function ProfileScreen({navigation}) {
     return subscriber; // unsubscribe on unmount
   }, []);
 
-  if (initializing) return null;
+  if (initializing) return <ActivityIndicator/>;
 
   if (!user) {
     return (

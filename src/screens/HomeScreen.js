@@ -14,7 +14,7 @@ export default function HomeScreen({navigation}) {
         <FullWidthButton>
           <Text style={{ textAlign: 'center' }}>View the Menu</Text>
         </FullWidthButton>
-        <FullWidthButton onPress={console.log('pressed the login button')}>
+        <FullWidthButton>
           <Text style={{ textAlign: 'center' }}>Login</Text>
         </FullWidthButton>
       </SafeAreaView>
